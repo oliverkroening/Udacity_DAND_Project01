@@ -1,11 +1,11 @@
 # Udacity_DAND_Project01
 
-Exploring Weather Trends - Project Instructions
+## Exploring Weather Trends - Project Instructions
 
-Summary
+### Summary
 In this project, you will analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 
-Instructions
+### Instructions
 Your goal will be to create a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in the closest big city to where you live. To do this, you’ll follow the steps below:
 
 - Extract the data from the database. There's a workspace in the next section that is connected to a database. You’ll need to export the temperature data for the world as well as for the closest big city to where you live. You can find a list of cities and countries in the city_list table. To interact with the database, you'll need to write a SQL query.
@@ -18,7 +18,7 @@ Your goal will be to create a visualization and prepare a write up describing th
   - “How do the changes in your city’s temperatures over time compare to the changes in the global average?”
   - What does the overall trend look like? Is the world getting hotter or cooler? Has the trend been consistent over the last few hundred years?
 
-Submission
+### Submission
 Your submission should be a PDF that includes:
 - An outline of steps taken to prepare the data to be visualized in the chart, such as:
   - What tools did you use for each step? (Python, SQL, Excel, etc)
